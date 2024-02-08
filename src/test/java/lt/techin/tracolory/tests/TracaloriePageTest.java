@@ -3,7 +3,7 @@ package lt.techin.tracolory.tests;
 import lt.techin.tracolory.pages.TracaloriePage;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-5
+
 public class TracaloriePageTest extends BasePageTest {
 
     @Test
